@@ -1,5 +1,0 @@
-transformers
-peft
-Sentencepiece
-bitsandbytes==0.35.0
-torch
